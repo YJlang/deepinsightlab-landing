@@ -1,0 +1,4 @@
+:HL["/deepinsightlab-landing/_next/static/chunks/138w5n_ed7k6j.css","style"]
+:HL["/deepinsightlab-landing/_next/static/chunks/2ii678qt4rax4.css","style"]
+:HL["/deepinsightlab-landing/_next/static/chunks/2u2od0_vrd44f.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"7Vu07axseOOkrfmy8u9i1"}
